@@ -21,3 +21,5 @@ The quality of your writing is expected to get progressively better; you will be
 ###Open Source Syllabus:
 You are encouraged to contribute to the design of this course by collaborating on https://github.com/teflonbeltran/Anthropology-of-Silicon-Valley. You can use GitHub functionality to raise issues related to the course content or make suggestions for course material you would like to see included in future weeks or future iterations of the course.
 
+### Paper 1:
+Thesis: Describe one technology that you used to use but don't use anymore now, and the reason behind it.
